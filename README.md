@@ -15,10 +15,5 @@ SCNU COMA는 React와 HTML5 Canvas를 이용해 제작된 박진감 넘치는 �
 - **Styling**: TailwindCSS v4
 - **Graphics**: HTML5 Canvas API
 
-## 실행 방법
-1. 의존성 설치: `npm install`
-2. 로컬 서버 실행: `npm run dev`
-3. 빌드: `npm run build`
-
 ## 제작자
-- **규성**
+- **박규성**
